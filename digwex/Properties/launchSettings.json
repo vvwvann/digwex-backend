@@ -1,0 +1,18 @@
+﻿{
+  "profiles": {
+    "Digwex": {
+      "commandName": "Development",
+      "launchBrowser": false,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "serve": {
+      "commandName": "Project",
+      "launchBrowser": false,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Serve"
+      }
+    }
+  }
+}
